@@ -5,6 +5,7 @@ build
 
 # IDE
 .project
+.idea
 .settings
 .buildpath
 *.bak
